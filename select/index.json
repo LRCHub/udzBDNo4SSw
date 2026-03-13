@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "This Is",
+  "base_artist": "Ella Mai",
+  "createdAt": "2026-03-13T14:36:53.050996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line feat. Luke Bryan",
+      "has_synced": true,
+      "path": "select/01_This_Is_How_We_Roll_Florida_Georgia_Line_feat._Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/02_This_Is_How_We_Roll_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line",
+      "has_synced": false,
+      "path": "select/03_This_Is_How_We_Roll_Florida_Georgia_Line.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Is How We Roll (Album Version)",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/04_This_Is_How_We_Roll_(Album_Version)_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Is It",
+      "artist": "Jim Reeves",
+      "has_synced": true,
+      "path": "select/05_This_Is_It_Jim_Reeves.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Is It",
+      "artist": "Scotty McCreery",
+      "has_synced": true,
+      "path": "select/06_This_Is_It_Scotty_McCreery.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Is Me",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/07_This_Is_Me_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Is Me (Remastered Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/08_This_Is_Me_(Remastered_Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Is Us",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/09_This_Is_Us_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Is The Last Time",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/10_This_Is_The_Last_Time_Keane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Is What Makes Us Girls",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/11_This_Is_What_Makes_Us_Girls_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Is Our Sound",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/12_This_Is_Our_Sound_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Is Not America",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/13_This_Is_Not_America_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Is Not America (with Pat Metheny Group)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_This_Is_Not_America_(with_Pat_Metheny_Group)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Is Not America (w\u0000 The Pat Metheny Group)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_This_Is_Not_America_(w\u0000_The_Pat_Metheny_Group)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This is Not America (with the Pat Metheny Group)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_This_is_Not_America_(with_the_Pat_Metheny_Group)_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Is",
+      "artist": "Ella Mai",
+      "has_synced": false,
+      "path": "select/pl_01_This_Is_Ella_Mai.txt"
+    }
+  ]
+}
